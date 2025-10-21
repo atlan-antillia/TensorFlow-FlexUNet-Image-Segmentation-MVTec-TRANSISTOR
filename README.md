@@ -239,7 +239,7 @@ rgb color map dict for MVTEC-TRANSISTOR 1+5 classes.
 [mask]
 mask_datatype    = "categorized"
 mask_file_format = ".png"
-;RBB             bent_lead:green, cut_lead:blue,  damaged_case:red,   misplaced:cyan   
+;RGB             bent_lead:green, cut_lead:blue,  damaged_case:red,   misplaced:cyan   
 color_map = {(0,0,0):0, (0,255,0):1,(0,0,255):2,  (255,0,0):3,       (0,255,255):4}
 </pre>
 
