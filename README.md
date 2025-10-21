@@ -300,7 +300,7 @@ Evaluation console output:<br>
 
 <a href="./projects/TensorFlowFlexUNet/MVTEC-TRANSISTOR/evaluation.csv">evaluation.csv</a><br>
 
-The loss (bce_dice_loss) to this MVTEC-TRANSISTOR/test was not low, and dice_coef not high as shown below.
+The loss (categorical_crossentropy) to this MVTEC-TRANSISTOR/test was not low, and dice_coef_multiclass not high as shown below.
 <br>
 <pre>
 categorical_crossentropy,0.1451
